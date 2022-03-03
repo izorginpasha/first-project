@@ -34,7 +34,7 @@
   }
   
   .header__link[lang="ru"]::before {
-    content: 'Привет, меня зовут ';
+    content: 'Привет, меня зовут Павел ';
   }
   
   .header__link[lang="en"]::before {
